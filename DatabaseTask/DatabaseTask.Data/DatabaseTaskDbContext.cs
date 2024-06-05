@@ -33,7 +33,6 @@ namespace DatabaseTask.Data
             {
                 entity.HasKey(e => e.Company_ID);
             });
-
-        }
+    }
     }
 }

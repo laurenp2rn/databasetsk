@@ -1,13 +1,17 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace DatabaseTask.Core.Domain
 {
     public class EmployeeLoan
     {
-        public int Loan_ID { get; set; }
-        public int Employee_ID { get; set; }
-        public int Item_ID { get; set; }
-        public DateTime Loan_Date { get; set; }
-        public DateTime Return_Date { get; set; }
+        [Key]
+        public int EmployeeID { get; set; }
+        public int LoanID { get; set; }
+        public DateTime LoanDate { get; set; }
+        public DateTime ReturnDate { get; set; }
+
+        public Employee Employee { get; set; }
+        public LoanableItem LoanableItem { get; set; }
     }
 }

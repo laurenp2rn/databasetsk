@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj": {}
+    "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj": {
+    "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj",
+        "projectUniqueName": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj",
         "projectName": "DatabaseTask.Core",
-        "projectPath": "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj",
+        "projectPath": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Core\\obj\\",
+        "outputPath": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj": {
+    "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj",
+        "projectUniqueName": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj",
         "projectName": "DatabaseTask.Data",
-        "projectPath": "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj",
+        "projectPath": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Data\\DatabaseTask.Data.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Data\\obj\\",
+        "outputPath": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,8 +94,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj": {
-                "projectPath": "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj"
+              "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj": {
+                "projectPath": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj"
               }
             }
           }

@@ -1,12 +1,263 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE37BB8-63DD-4349-BCFD-6EB195E14478}|DatabaseTask.Data\\DatabaseTask.Data.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.data\\migrations\\migration_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE37BB8-63DD-4349-BCFD-6EB195E14478}|DatabaseTask.Data\\DatabaseTask.Data.csproj|solutionrelative:databasetask.data\\migrations\\migration_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE37BB8-63DD-4349-BCFD-6EB195E14478}|DatabaseTask.Data\\DatabaseTask.Data.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.data\\migrations\\20240604191342_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE37BB8-63DD-4349-BCFD-6EB195E14478}|DatabaseTask.Data\\DatabaseTask.Data.csproj|solutionrelative:databasetask.data\\migrations\\20240604191342_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE37BB8-63DD-4349-BCFD-6EB195E14478}|DatabaseTask.Data\\DatabaseTask.Data.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.data\\migrations\\databasetaskdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE37BB8-63DD-4349-BCFD-6EB195E14478}|DatabaseTask.Data\\DatabaseTask.Data.csproj|solutionrelative:databasetask.data\\migrations\\databasetaskdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE37BB8-63DD-4349-BCFD-6EB195E14478}|DatabaseTask.Data\\DatabaseTask.Data.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.data\\databasetaskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE37BB8-63DD-4349-BCFD-6EB195E14478}|DatabaseTask.Data\\DatabaseTask.Data.csproj|solutionrelative:databasetask.data\\databasetaskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.core\\domain\\accesslevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|solutionrelative:databasetask.core\\domain\\accesslevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.core\\domain\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|solutionrelative:databasetask.core\\domain\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.core\\domain\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|solutionrelative:databasetask.core\\domain\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.core\\domain\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|solutionrelative:databasetask.core\\domain\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.core\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|solutionrelative:databasetask.core\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.core\\domain\\loanableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|solutionrelative:databasetask.core\\domain\\loanableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.core\\domain\\vacationschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|solutionrelative:databasetask.core\\domain\\vacationschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.core\\domain\\sickleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|solutionrelative:databasetask.core\\domain\\sickleave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.core\\domain\\healthchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|solutionrelative:databasetask.core\\domain\\healthchecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.core\\domain\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|solutionrelative:databasetask.core\\domain\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|c:\\users\\laure\\documents\\databasetsk\\databasetask\\databasetask.core\\domain\\employeeloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69E41CB-285A-4C70-8BB8-1FD9077BD908}|DatabaseTask.Core\\DatabaseTask.Core.csproj|solutionrelative:databasetask.core\\domain\\employeeloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseTaskDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Data\\Migrations\\DatabaseTaskDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Data\\Migrations\\DatabaseTaskDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Data\\Migrations\\DatabaseTaskDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DatabaseTask.Data\\Migrations\\DatabaseTaskDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:05:16.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240604191342_intialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Data\\Migrations\\20240604191342_intialcreate.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Data\\Migrations\\20240604191342_intialcreate.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Data\\Migrations\\20240604191342_intialcreate.cs",
+              "RelativeToolTip": "DatabaseTask.Data\\Migrations\\20240604191342_intialcreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:13:43.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccessLevel.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\AccessLevel.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Core\\Domain\\AccessLevel.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\AccessLevel.cs",
+              "RelativeToolTip": "DatabaseTask.Core\\Domain\\AccessLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:04:58.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\Child.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Core\\Domain\\Child.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\Child.cs",
+              "RelativeToolTip": "DatabaseTask.Core\\Domain\\Child.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:46:52.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\Company.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Core\\Domain\\Company.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\Company.cs",
+              "RelativeToolTip": "DatabaseTask.Core\\Domain\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:46:49.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "migration_init.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Data\\Migrations\\migration_init.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Data\\Migrations\\migration_init.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Data\\Migrations\\migration_init.cs",
+              "RelativeToolTip": "DatabaseTask.Data\\Migrations\\migration_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:44:52.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseTaskDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Data\\DatabaseTaskDbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Data\\DatabaseTaskDbContext.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Data\\DatabaseTaskDbContext.cs",
+              "RelativeToolTip": "DatabaseTask.Data\\DatabaseTaskDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIAywCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:57:31.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\Department.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Core\\Domain\\Department.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\Department.cs",
+              "RelativeToolTip": "DatabaseTask.Core\\Domain\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:04:49.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Core\\Domain\\Employee.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\Employee.cs",
+              "RelativeToolTip": "DatabaseTask.Core\\Domain\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:04:35.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoanableItem.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\LoanableItem.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Core\\Domain\\LoanableItem.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\LoanableItem.cs",
+              "RelativeToolTip": "DatabaseTask.Core\\Domain\\LoanableItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:04:18.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VacationSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\VacationSchedule.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Core\\Domain\\VacationSchedule.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\VacationSchedule.cs",
+              "RelativeToolTip": "DatabaseTask.Core\\Domain\\VacationSchedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:04:43.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SickLeave.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\SickLeave.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Core\\Domain\\SickLeave.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\SickLeave.cs",
+              "RelativeToolTip": "DatabaseTask.Core\\Domain\\SickLeave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:04:41.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HealthChecklist.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\HealthChecklist.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Core\\Domain\\HealthChecklist.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\HealthChecklist.cs",
+              "RelativeToolTip": "DatabaseTask.Core\\Domain\\HealthChecklist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:04:44.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\Request.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Core\\Domain\\Request.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\Request.cs",
+              "RelativeToolTip": "DatabaseTask.Core\\Domain\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:00:04.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeLoan.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\EmployeeLoan.cs",
+              "RelativeDocumentMoniker": "DatabaseTask.Core\\Domain\\EmployeeLoan.cs",
+              "ToolTip": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\Domain\\EmployeeLoan.cs",
+              "RelativeToolTip": "DatabaseTask.Core\\Domain\\EmployeeLoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:49:02.144Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

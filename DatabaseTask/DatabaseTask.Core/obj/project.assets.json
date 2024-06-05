@@ -585,11 +585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj",
+      "projectUniqueName": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj",
       "projectName": "DatabaseTask.Core",
-      "projectPath": "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj",
+      "projectPath": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\DatabaseTask.Core.csproj",
       "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laure\\Documents\\DatabaseTask-master\\DatabaseTask\\DatabaseTask.Core\\obj\\",
+      "outputPath": "C:\\Users\\laure\\Documents\\databasetsk\\DatabaseTask\\DatabaseTask.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config",
